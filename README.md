@@ -1,4 +1,4 @@
-### Hi there, I'm Nikita
+## Hi there, I'm Nikita
 
 # 💫 About Me:
 🔭 I'm currently working on Frontend<br>👯 I'm looking to collaborate on Projects<br>🌱 I'm currently learning Spring Boot
